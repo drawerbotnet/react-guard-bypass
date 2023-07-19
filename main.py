@@ -1,6 +1,6 @@
 import re
 import binascii
-import AES
+from Crypto.Cipher import AES
 import requests
 
 
